@@ -55,4 +55,4 @@ Welcome to PinniWatch, the Seal & Sea Lion Identifier AI System! Our advanced AI
 
 PinniWatch is committed to addressing these critical issues through advanced AI technology. Our mission is to contribute to the conservation and understanding of these fascinating marine mammals.
 
-For more information, please visit our [website](https://www.your-website-url.com) or contact us at [info@pinniwatch.com](mailto:info@pinniwatch.com).
+For more information, please visit our [website](https://github.com/CourtneyBrookes/PinniWatch)]
