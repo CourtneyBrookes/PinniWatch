@@ -1,6 +1,6 @@
 # PinniWatch - Seal & Sea Lion Identifier AI System
 
-![PinniWatch Logo](your-logo-url-here)
+![PinniWatch Logo](https://raw.githubusercontent.com/CourtneyBrookes/PinniWatch/main/logo_for_company_named_pinni_watch_and_a_seal_ta%20(1).jpg)
 
 Welcome to PinniWatch, the Seal & Sea Lion Identifier AI System! Our advanced AI technology is designed to identify and track seals and sea lions in various marine environments. Here's how PinniWatch can help address important issues:
 
