@@ -10,7 +10,7 @@ Welcome to PinniWatch, the Seal & Sea Lion Identifier AI System! Our advanced AI
 
 - **Issue:** Monitoring and protecting seal and sea lion populations are essential for wildlife conservation.
 - **Solution:** PinniWatch assists conservationists in tracking and assessing the health of these species, contributing to their long-term survival.
-![SmilingSeal.jpg]
+![SmilingSeal]
 
 ### 2. Fisheries Management
 
