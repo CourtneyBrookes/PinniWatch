@@ -51,6 +51,17 @@ Welcome to PinniWatch, the Seal & Sea Lion Identifier AI System! Our advanced AI
 - **Issue:** Public awareness and education about seals and sea lions are essential for their conservation.
 - **Solution:** PinniWatch can be used for educational outreach, providing real-time information and resources.
 
+## Results 
+### Accuracy 
+
+### Loss 
+
+- **Accuracy:** 87.5
+- **Loss:** 31.3
+
+
+
+
 ## About Us
 
 PinniWatch is committed to addressing these critical issues through advanced AI technology. Our mission is to contribute to the conservation and understanding of these fascinating marine mammals.
