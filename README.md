@@ -53,10 +53,8 @@ Welcome to PinniWatch, the Seal & Sea Lion Identifier AI System! Our advanced AI
 
 ## Results 
 ### Accuracy 
-
-### Loss 
-
 - **Accuracy:** 87.5
+### Loss 
 - **Loss:** 31.3
 
 
