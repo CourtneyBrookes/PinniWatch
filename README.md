@@ -42,6 +42,11 @@ Seals and sea lions are essential components of marine ecosystems, and their ide
 - **Issue:** Monitoring and protecting seal and sea lion populations are essential for wildlife conservation.
 - **Solution:** PinniWatch assists conservationists in tracking and assessing the health of these species, contributing to their long-term survival.
 
+<p align="center">
+  <img src="https://i.dailymail.co.uk/i/pix/2012/01/12/article-2085835-0F6D781400000578-455_638x689.jpg" alt="Smiling Seal" width="200" height="200">
+</p>
+
+
 ### 2. Fisheries Management
 
 - **Issue:** Seals and sea lions can pose challenges for fishermen due to bycatch and competition for fish.
