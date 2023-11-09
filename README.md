@@ -14,6 +14,8 @@ Welcome to PinniWatch, your ultimate solution for identifying and distinguishing
 
 At the heart of PinniWatch's effectiveness is a meticulously curated dataset comprising 100 images. This dataset is thoughtfully composed to represent the marine ecosystem comprehensively. It encompasses 50 images depicting the charismatic seals and sea lions, providing the system with the key features and traits that define these marine mammals. The remaining 50 images offer a contrast, showcasing the vastness of the ocean and the diverse marine wildlife that coexists in these ecosystems.
 
+
+
 # Sample Images
 
 Here are some sample images used in the training of PinniWatch:
@@ -31,11 +33,14 @@ Here are some sample images used in the training of PinniWatch:
    <img src="https://blog.assets.traveltrivia.com/2019/04/Pacific-Ocean-Large.jpg" size="200">
 
 
+
 ## AlexNet: A Deep Learning Powerhouse
 
 PinniWatch's engine is built upon the renowned AlexNet architecture, a revolutionary convolutional neural network (CNN) that broke new ground in the field of computer vision. Developed by Krizhevsky et al. in 2012, AlexNet achieved a significant leap in image recognition accuracy, sparking a new era of deep learning.
 
 The AlexNet architecture boasts a complex yet powerful design, comprising multiple convolutional layers, pooling layers, and fully connected layers. This intricate structure empowers PinniWatch to dissect the input images, extracting intricate features such as shapes, textures, and patterns that are characteristic of seals and sea lions.
+
+
 
 ## How PinniWatch Works
 
@@ -50,6 +55,8 @@ The AlexNet architecture boasts a complex yet powerful design, comprising multip
 ## The Importance of Seal and Sea Lion Identification
 
 Seals and sea lions are essential components of marine ecosystems, and their identification is critical for conservation efforts, responsible wildlife tourism, and ecological research.
+
+
 
 
 ## Here's how PinniWatch can help address important issues:
@@ -107,7 +114,10 @@ Seals and sea lions are essential components of marine ecosystems, and their ide
 - **Issue:** Public awareness and education about seals and sea lions are essential for their conservation.
 - **Solution:** PinniWatch can be used for educational outreach, providing real-time information and resources.
 
+
 ## Results 
+
+
 ### Accuracy 
 ![Accuracy](https://github.com/CourtneyBrookes/PinniWatch/blob/7d0882e882343fc50b9abe3d8d5b90da9659b363/Accuracy%20.png) 
 
