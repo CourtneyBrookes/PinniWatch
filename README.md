@@ -46,7 +46,6 @@ Seals and sea lions are essential components of marine ecosystems, and their ide
   <img src="https://i.dailymail.co.uk/i/pix/2012/01/12/article-2085835-0F6D781400000578-455_638x689.jpg" alt="Smiling Seal" width="200" height="200">
 </p>
 
-
 ### 2. Fisheries Management
 
 - **Issue:** Seals and sea lions can pose challenges for fishermen due to bycatch and competition for fish.
@@ -71,6 +70,10 @@ Seals and sea lions are essential components of marine ecosystems, and their ide
 
 - **Issue:** In the event of an oil spill, rapid response is critical for protecting marine life.
 - **Solution:** PinniWatch aids in locating and monitoring seals and sea lions, enabling timely response and rescue efforts.
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9c/ec/b0/9cecb0d79cf9f1e3bbdc4f1803177916.jpg" alt="Smiling Seal" width="200" height="200">
+</p>
 
 ### 7. Aquaculture Protection
 
