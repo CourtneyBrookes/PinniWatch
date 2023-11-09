@@ -28,12 +28,7 @@ Here are some sample images used in the training of PinniWatch:
    <img src="https://images.unsplash.com/photo-1536164832230-6c238c58f740?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8UG9sYXIlMjBCZWFycyUyMFN3aW18ZW58MHx8MHx8&w=1000&q=80" alt="Ocean and Wildlife" size="200">
 
 4.  **Ocean Image**
-   <img src="Ocean and Wildlife](https://img.buzzfeed.com/buzzfeed-static/complex/images/evbvfjvdh5qm1axauzzt/researchers-say-supercontinent-amasia-will-form-pacific-ocean-dissapears.jpg?output-format=jpg&output-quality=auto)" size="200">
-
-
-
-
-
+   <img src="https://blog.assets.traveltrivia.com/2019/04/Pacific-Ocean-Large.jpg" size="200">
 
 
 ## AlexNet: A Deep Learning Powerhouse
