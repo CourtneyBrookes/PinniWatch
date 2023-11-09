@@ -14,6 +14,24 @@ Welcome to PinniWatch, your ultimate solution for identifying and distinguishing
 
 At the heart of PinniWatch's effectiveness is a meticulously curated dataset comprising 100 images. This dataset is thoughtfully composed to represent the marine ecosystem comprehensively. It encompasses 50 images depicting the charismatic seals and sea lions, providing the system with the key features and traits that define these marine mammals. The remaining 50 images offer a contrast, showcasing the vastness of the ocean and the diverse marine wildlife that coexists in these ecosystems.
 
+# Sample Images
+
+Here are some sample images used in the training of PinniWatch:
+
+1. Seal Image
+   ![Seal](https://media.cnn.com/api/v1/images/stellar/prod/211101125647-01-harbour-seal-pups-study.jpg?q=w_2000,h_1333,x_0,y_0,c_fill)
+
+2. Sea Lion Image
+   ![Sea Lion](sea_lion_image_url_1)
+
+3. Ocean and Wildlife Images
+   ![Ocean and Wildlife](ocean_image_url_1)
+
+4. Water Ecosystem Image
+   ![Seal](seal_image_url_2)
+
+
+
 ## AlexNet: A Deep Learning Powerhouse
 
 PinniWatch's engine is built upon the renowned AlexNet architecture, a revolutionary convolutional neural network (CNN) that broke new ground in the field of computer vision. Developed by Krizhevsky et al. in 2012, AlexNet achieved a significant leap in image recognition accuracy, sparking a new era of deep learning.
