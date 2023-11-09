@@ -90,7 +90,7 @@ Seals and sea lions are essential components of marine ecosystems, and their ide
 ![Loss](https://github.com/CourtneyBrookes/PinniWatch/blob/8dc76a49282b0b84d6c6fea243410344537f6853/Loss.png)
 - **Loss:** 0.313
 
-##DataDeck 
+## DataDeck 
 ![Data Deck](PinniWatchSlides.ipynb)
 
 ## Conclusion
