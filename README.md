@@ -1,6 +1,6 @@
 # PinniWatch
 
-![PinniWatch Logo](https://raw.githubusercontent.com/CourtneyBrookes/PinniWatch/main/logo_for_company_named_pinni_watch_and_a_seal_ta%20(1).jpg)
+![PinniWatch Logo](https://github.com/CourtneyBrookes/PinniWatch/blob/9f80203c1f453260c9600546f6667acbaa0769c9/PinniWatchLogo.jpg)
 
 # PinniWatch - Seal & Sea Lion Identifier
 
