@@ -35,9 +35,7 @@ The AlexNet architecture boasts a complex yet powerful design, comprising multip
 Seals and sea lions are essential components of marine ecosystems, and their identification is critical for conservation efforts, responsible wildlife tourism, and ecological research.
 
 
-### Here's how PinniWatch can help address important issues:
-
-## Problems Addressed:
+## Here's how PinniWatch can help address important issues:
 
 ### 1. Wildlife Conservation
 
