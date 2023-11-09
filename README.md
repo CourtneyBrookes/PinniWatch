@@ -93,6 +93,8 @@ Seals and sea lions are essential components of marine ecosystems, and their ide
 ## Results 
 ### Accuracy 
 ![Accuracy](https://github.com/CourtneyBrookes/PinniWatch/blob/7d0882e882343fc50b9abe3d8d5b90da9659b363/Accuracy%20.png) 
+
+<img src="https://github.com/CourtneyBrookes/PinniWatch/raw/7d0882e882343fc50b9abe3d8d5b90da9659b363/Accuracy%20.png" alt="Accuracy" width="300" height="300">
 - **Accuracy:** 87.5%
 ### Loss 
 ![Loss](https://github.com/CourtneyBrookes/PinniWatch/blob/8dc76a49282b0b84d6c6fea243410344537f6853/Loss.png)
