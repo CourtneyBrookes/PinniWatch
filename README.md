@@ -43,7 +43,7 @@ Seals and sea lions are essential components of marine ecosystems, and their ide
 - **Solution:** PinniWatch assists conservationists in tracking and assessing the health of these species, contributing to their long-term survival.
 
 <p align="center">
-  <img src="https://i.dailymail.co.uk/i/pix/2012/01/12/article-2085835-0F6D781400000578-455_638x689.jpg" alt="Smiling Seal" width="250" height="200">
+  <img src="https://i.dailymail.co.uk/i/pix/2012/01/12/article-2085835-0F6D781400000578-455_638x689.jpg" alt="Smiling Seal" width="200" height="200">
 </p>
 
 ### 2. Fisheries Management
@@ -72,7 +72,7 @@ Seals and sea lions are essential components of marine ecosystems, and their ide
 - **Solution:** PinniWatch aids in locating and monitoring seals and sea lions, enabling timely response and rescue efforts.
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9c/ec/b0/9cecb0d79cf9f1e3bbdc4f1803177916.jpg" alt="Smiling Seal" width="200" height="200">
+  <img src="https://i.pinimg.com/originals/9c/ec/b0/9cecb0d79cf9f1e3bbdc4f1803177916.jpg" alt="Smiling Seal" width="250" height="200">
 </p>
 
 ### 7. Aquaculture Protection
