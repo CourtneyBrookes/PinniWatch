@@ -12,7 +12,7 @@ Welcome to PinniWatch, your ultimate solution for identifying and distinguishing
 
 ## Dataset
 
-At the heart of PinniWatch's effectiveness is a meticulously curated dataset comprising 100 images. This dataset is thoughtfully composed to represent the marine ecosystem comprehensively. It encompasses 50 images depicting the charismatic seals and sea lions, providing the system with the key features and traits that define these marine mammals. The remaining 50 images offer a contrast, showcasing the vastness of the ocean and the diverse marine wildlife that coexists in these ecosystems.
+At the heart of PinniWatch's effectiveness is a meticulously curated dataset comprising 100 images. This dataset is thoughtfully composed to represent the marine ecosystem comprehensively. It encompasses 50 images depicting charismatic seals and sea lions, providing the system with the key features and traits that define these marine mammals. The remaining 50 images offer a contrast, showcasing the vastness of the ocean and the diverse marine wildlife that coexists in these ecosystems.
 
 
 
@@ -142,7 +142,7 @@ Our platform utilizes the powerful AlexNet architecture to identify and distingu
    - Enables on-the-fly identification for practical use.
 
 <p align="center">
-  <img src="https://cdn-5f733ed3c1ac190fbc56ef88.closte.com/wp-content/uploads/2017/03/alexnet_small.png" width="250" height="200">
+  <img src="https://cdn-5f733ed3c1ac190fbc56ef88.closte.com/wp-content/uploads/2017/03/alexnet_small.png" width="600" height="350">
 </p>
 
 PinniWatch is your reliable partner for wildlife conservation, research, and responsible marine tourism. Experience the efficiency of AlexNet in action, contributing to the understanding and protection of these fascinating marine mammals.
