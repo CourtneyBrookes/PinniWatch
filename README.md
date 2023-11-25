@@ -142,7 +142,7 @@ Our platform utilizes the powerful AlexNet architecture to identify and distingu
    - Enables on-the-fly identification for practical use.
 
 <p align="center">
-  <img src="https://cdn-5f733ed3c1ac190fbc56ef88.closte.com/wp-content/uploads/2017/03/alexnet_small.png" width="600" height="350">
+  <img src="https://cdn-5f733ed3c1ac190fbc56ef88.closte.com/wp-content/uploads/2017/03/alexnet_small.png" width="800" height="350">
 </p>
 
 PinniWatch is your reliable partner for wildlife conservation, research, and responsible marine tourism. Experience the efficiency of AlexNet in action, contributing to the understanding and protection of these fascinating marine mammals.
