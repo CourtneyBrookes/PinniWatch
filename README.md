@@ -22,7 +22,7 @@ At the heart of PinniWatch's effectiveness is a meticulously curated dataset com
 Here are some sample images used in the training of PinniWatch:
 
 1.  **Seal Image**
-   <img src="https://files.worldwildlife.org/wwfcmsprod/images/HERO_harbor_seal_on_ice/hero_small/41yzw17euy_Harbor_Seal_on_Ice_close_0357_6_11_07.jpg" alt="Seal" width="150" height="400">
+   <img src="https://files.worldwildlife.org/wwfcmsprod/images/HERO_harbor_seal_on_ice/hero_small/41yzw17euy_Harbor_Seal_on_Ice_close_0357_6_11_07.jpg" alt="Seal" width="500" height="400">
 
 2.  **Sea Lion Image**
    <img src="https://res.cloudinary.com/mysticmade/image/upload/f_auto/q_auto/v1660143055/Animal%20Page%20Images/Sakari_4903?_a=AAClqAI" alt="Sea Lion" size="200">
