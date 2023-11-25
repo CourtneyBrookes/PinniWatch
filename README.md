@@ -25,13 +25,13 @@ Here are some sample images used in the training of PinniWatch:
    <img src="https://files.worldwildlife.org/wwfcmsprod/images/HERO_harbor_seal_on_ice/hero_small/41yzw17euy_Harbor_Seal_on_Ice_close_0357_6_11_07.jpg" alt="Seal" width="500" height="400">
 
 2.  **Sea Lion Image**
-   <img src="https://res.cloudinary.com/mysticmade/image/upload/f_auto/q_auto/v1660143055/Animal%20Page%20Images/Sakari_4903?_a=AAClqAI" alt="Sea Lion" size="200">
+   <img src="https://res.cloudinary.com/mysticmade/image/upload/f_auto/q_auto/v1660143055/Animal%20Page%20Images/Sakari_4903?_a=AAClqAI" alt="Sea Lion" width="500" height="400">
 
 3.  **Ocean and Wildlife Image**
-   <img src="https://images.unsplash.com/photo-1536164832230-6c238c58f740?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8UG9sYXIlMjBCZWFycyUyMFN3aW18ZW58MHx8MHx8&w=1000&q=80" alt="Ocean and Wildlife" size="200">
+   <img src="https://images.unsplash.com/photo-1536164832230-6c238c58f740?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8UG9sYXIlMjBCZWFycyUyMFN3aW18ZW58MHx8MHx8&w=1000&q=80" alt="Ocean and Wildlife" width="500" height="400">
 
 4.  **Ocean Image**
-   <img src="https://blog.assets.traveltrivia.com/2019/04/Pacific-Ocean-Large.jpg" size="200">
+   <img src="https://blog.assets.traveltrivia.com/2019/04/Pacific-Ocean-Large.jpg" width="500" height="400">
 
 
 
