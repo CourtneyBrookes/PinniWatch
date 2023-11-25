@@ -114,6 +114,44 @@ Seals and sea lions are essential components of marine ecosystems, and their ide
 - **Issue:** Public awareness and education about seals and sea lions are essential for their conservation.
 - **Solution:** PinniWatch can be used for educational outreach, providing real-time information and resources.
 
+## Alexnet 
+### **AI-Powered Marine Life Identification with AlexNet**
+
+Our platform utilizes the powerful AlexNet architecture to identify and distinguish seals and sea lions in real-time. Here's how it works:
+
+**How AlexNet Powers PinniWatch:**
+
+🔍 **Feature Extraction:**
+   - AlexNet's convolutional layers analyze images, recognizing distinct features like flippers, whiskers, and markings specific to seals and sea lions.
+
+🤖 **Classification:**
+   - Fully connected layers categorize each image, labeling it as a seal, sea lion, or another marine species based on learned features.
+
+🚀 **Real-Time Prediction:**
+   - PinniWatch provides swift and accurate identifications, making it a valuable tool for marine environments.
+
+**Benefits:**
+
+✔️ **Accuracy and Robustness:**
+   - Captures intricate features for precise identifications.
+
+✔️ **Adaptability:**
+   - Adapts to various poses, lighting conditions, and backgrounds.
+
+✔️ **Real-Time Efficiency:**
+   - Enables on-the-fly identification for practical use.
+
+<p align="center">
+  <img src="https://cdn-5f733ed3c1ac190fbc56ef88.closte.com/wp-content/uploads/2017/03/alexnet_small.png" width="250" height="200">
+</p>
+
+PinniWatch is your reliable partner for wildlife conservation, research, and responsible marine tourism. Experience the efficiency of AlexNet in action, contributing to the understanding and protection of these fascinating marine mammals.
+
+[Alexnet](PinniWatchSlides.ipynb)
+
+
+## DataDeck 
+[Data Deck](https://docs.google.com/presentation/d/1BOMFpKkecm3TDqE56MWQ8DSH3EW7JMsulmim4nEyllw/edit#slide=id.g206f8279a60_0_0)
 
 ## Results 
 
@@ -127,11 +165,7 @@ Seals and sea lions are essential components of marine ecosystems, and their ide
 
 - **Loss:** 0.313
 
-## DataDeck 
-[Data Deck](https://docs.google.com/presentation/d/1BOMFpKkecm3TDqE56MWQ8DSH3EW7JMsulmim4nEyllw/edit#slide=id.g206f8279a60_0_0)
 
-## Alexnet 
-[Alexnet](PinniWatchSlides.ipynb)
 
 
 ## Conclusion
