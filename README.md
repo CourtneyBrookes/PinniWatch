@@ -14,14 +14,15 @@ Welcome to PinniWatch, your ultimate solution for identifying and distinguishing
 
 At the heart of PinniWatch's effectiveness is a meticulously curated dataset comprising 100 images. This dataset is thoughtfully composed to represent the marine ecosystem comprehensively. It encompasses 50 images depicting charismatic seals and sea lions, providing the system with the key features and traits that define these marine mammals. The remaining 50 images offer a contrast, showcasing the vastness of the ocean and the diverse marine wildlife that coexists in these ecosystems.
 
-
+## DataDeck 
+[Data Deck](https://docs.google.com/presentation/d/1BOMFpKkecm3TDqE56MWQ8DSH3EW7JMsulmim4nEyllw/edit#slide=id.g206f8279a60_0_0)
 
 # Sample Images
 
 Here are some sample images used in the training of PinniWatch:
 
 1.  **Seal Image**
-   <img src="https://files.worldwildlife.org/wwfcmsprod/images/HERO_harbor_seal_on_ice/hero_small/41yzw17euy_Harbor_Seal_on_Ice_close_0357_6_11_07.jpg" alt="Seal" size="200">
+   <img src="https://files.worldwildlife.org/wwfcmsprod/images/HERO_harbor_seal_on_ice/hero_small/41yzw17euy_Harbor_Seal_on_Ice_close_0357_6_11_07.jpg" alt="Seal" width="150" height="400">
 
 2.  **Sea Lion Image**
    <img src="https://res.cloudinary.com/mysticmade/image/upload/f_auto/q_auto/v1660143055/Animal%20Page%20Images/Sakari_4903?_a=AAClqAI" alt="Sea Lion" size="200">
@@ -149,10 +150,6 @@ PinniWatch is your reliable partner for wildlife conservation, research, and res
 
 [Alexnet](PinniWatchSlides.ipynb)
 
-
-## DataDeck 
-[Data Deck](https://docs.google.com/presentation/d/1BOMFpKkecm3TDqE56MWQ8DSH3EW7JMsulmim4nEyllw/edit#slide=id.g206f8279a60_0_0)
-
 ## Results 
 
 
@@ -164,9 +161,6 @@ PinniWatch is your reliable partner for wildlife conservation, research, and res
 ![Loss](https://github.com/CourtneyBrookes/PinniWatch/blob/8dc76a49282b0b84d6c6fea243410344537f6853/Loss.png)
 
 - **Loss:** 0.313
-
-
-
 
 ## Conclusion
 
