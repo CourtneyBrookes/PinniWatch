@@ -154,10 +154,7 @@ PinniWatch is your reliable partner for wildlife conservation, research, and res
 
 
 ### Accuracy 
-<img src="https://github.com/CourtneyBrookes/PinniWatch/blob/7d0882e882343fc50b9abe3d8d5b90da9659b363/Accuracy%20.png" width="500" height="400">
-
-
-![Accuracy](https://github.com/CourtneyBrookes/PinniWatch/blob/7d0882e882343fc50b9abe3d8d5b90da9659b363/Accuracy%20.png)
+<img src="https://github.com/CourtneyBrookes/PinniWatch/blob/7d0882e882343fc50b9abe3d8d5b90da9659b363/Accuracy%20.png" width="500" height="350">
 
 - **Accuracy:** 87.5%
 ### Loss 
